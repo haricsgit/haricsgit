@@ -50,13 +50,6 @@ skills = {
 - 📝 Write technical blogs about my learning journey
 - 🤝 Collaborate on open-source data science projects
 
-## 🌐 Languages
-
-- **Hindi**: Native proficiency
-- **English**: Professional working proficiency
-- **Bengali**: Limited working proficiency
-- **Santali**: Native proficiency
-
 ## 📫 Let's Connect!
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
